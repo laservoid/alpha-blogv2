@@ -6,6 +6,8 @@ ruby '2.6.1'
 gem 'rails', '~> 5.2.2'
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
+# Use bcrypt for password hashing
+gem 'bcrypt', '~> 3.1.7'
 # Use SCSS for stylesheets
 gem 'jquery-rails'
 gem 'sass-rails', '~> 5.0'
