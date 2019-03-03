@@ -8,6 +8,7 @@ gem 'rails', '~> 5.2.2'
 gem 'puma', '~> 3.11'
 # Use bcrypt for password hashing
 gem 'bcrypt', '~> 3.1.7'
+gem 'rails-controller-testing'
 gem 'will_paginate', '3.1.5'
 gem 'bootstrap-will_paginate', '1.0.0'
 # Use SCSS for stylesheets
